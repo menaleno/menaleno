@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Computer Vision
-- 🌱 I’m currently learning SNN
+- 🔭 I’m currently working on CV,NLP.
+- 🌱 I’m currently learning SNN.
 <!--
 **menaleno/menaleno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
