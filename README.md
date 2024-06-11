@@ -13,7 +13,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=menaleno&show_icons=true&theme=transparent)
 
-
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
