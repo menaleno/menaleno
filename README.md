@@ -22,7 +22,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 5.4 kB Used in GitHub's Storage 
+> 📦 4.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -79,7 +79,7 @@ Java                     1 repo              ████████░░░�
 
 
 
- Last Updated on 17/06/2024 18:38:47 UTC
+ Last Updated on 18/06/2024 18:40:00 UTC
 <!--END_SECTION:waka-->
 
 
