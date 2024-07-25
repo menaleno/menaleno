@@ -16,11 +16,13 @@
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 6.5 kB Used in GitHub's Storage 
+> 📦 5.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -28,6 +30,45 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+🌃 Evening                38 commits          ████████████████████░░░░░   80.85 % 
+🌙 Night                  4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Tuesday                  34 commits          ██████████████████░░░░░░░   72.34 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Friday                   3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -38,7 +79,7 @@ Java                     1 repo              ██████░░░░░�
 
 
 
- Last Updated on 24/07/2024 18:42:21 UTC
+ Last Updated on 25/07/2024 18:39:06 UTC
 <!--END_SECTION:waka-->
 
 
