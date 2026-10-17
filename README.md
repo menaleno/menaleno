@@ -16,29 +16,76 @@
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 6.7 kB Used in GitHub's Storage 
+> 📦 555.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 6 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 2 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+🌆 Daytime                7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+🌃 Evening                41 commits          ██████████████████░░░░░░░   71.93 % 
+🌙 Night                  5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Tuesday                  37 commits          ████████████████░░░░░░░░░   64.91 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Friday                   5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   3 repos             ███████████████████░░░░░░   75.00 % 
-Java                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Python                   4 repos             ████████████████████░░░░░   80.00 % 
+Java                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 ```
 
 
 
 
- Last Updated on 08/09/2024 18:41:18 UTC
+ Last Updated on 17/10/2026 09:36:18 UTC
 <!--END_SECTION:waka-->
 
 
